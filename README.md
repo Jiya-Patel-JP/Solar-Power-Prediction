@@ -1,3 +1,3 @@
 # Solar-Power-Prediction
 
-Predicting Solar Power Output using linear regression
+Predicting Solar Power Output using Linear Regression
